@@ -1,6 +1,6 @@
 # Projekts GIT_kaulins
 Java metamā kauliņa 
-![Metama kaulina attels](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brain-games.lv%2Fcollections%2Fmetamie-kaulini&psig=AOvVaw2jxnDvMzGADexrkCWW_Pet&ust=1679404340990000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCwjdjK6v0CFQAAAAAdAAAAABAE)
+![Metama kaulina attels](https://www.openart.lv/wp-content/uploads/2015/12/metamie-kaulini.png)
 
 ### **Darāmo saraksts**
 - [x] Uzsākt lokāli java projekts un veikta sākotnēja versijas versionēšana
