@@ -7,8 +7,10 @@ public class Git_Kalendra {
 	int skaitlis, reizes;
 	Random rand = new Random();
 	Scanner scan = new Scanner(System.in);
+	do{
 	System.out.println("Cik reizes mest kauliòu?");
 	reizes = scan.nextInt();
+	}while(reizes<1);
 	for(int i=1; i<=reizes; i++){
 	skaitlis = rand.nextInt(6)+1;
 	System.out.println("Uzkrita sakitlis "+skaitlis);
