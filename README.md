@@ -1,6 +1,6 @@
 # Projekts GIT_kaulins
 Java metamā kauliņa 
-![Metama kaulina attels]
+[Metama kaulina attels]
 (https://www.openart.lv/wp-content/uploads/2015/12/metamie-kaulini.png)
 
 ### **Darāmo saraksts**
