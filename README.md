@@ -7,7 +7,7 @@ Java metamā kauliņa projekts, kas tiek versionēts ar Git
 - [x] Uzsākt lokāli java projekts un veikta sākotnēja versijas versionēšana
 - [x] Izveidots pirmais repo GitHub
 - [x] Lokalais projekts izvietots GitHub prātuvē
-- [ ] Papildināt GitHub repo un iegūt to lokālai lietošanai
+- [x] Papildināt GitHub repo un iegūt to lokālai lietošanai
 - [ ] Projektam piesledzies vēl viens programmētājs, veikta kopdrabošanās
-- [ ] Projektā ievests jauns zars (branch)
+- [x] Projektā ievests jauns zars (branch)
 - [ ] Veikta sapludināšana un novērsts merge konflikts
