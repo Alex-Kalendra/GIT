@@ -1,5 +1,5 @@
 # Projekts GIT_kaulins
-Java metamā kauliņa 
+Java metamā kauliņa projekts, kas tiek versionēts ar Git
 
 ![Metama kaulina attels](https://www.openart.lv/wp-content/uploads/2015/12/metamie-kaulini.png)
 
